@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning from the Lord to the city and nation, in mercy to the people, to see if they will yet seek him.</title>
+            <author>Redford, Elizabeth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695-1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92315</idno>
+            <idno type="STC">Wing R661A</idno>
+            <idno type="STC">ESTC R229144</idno>
+            <idno type="EEBO-CITATION">45097919</idno>
+            <idno type="OCLC">ocm 45097919</idno>
+            <idno type="VID">171495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171495)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning from the Lord to the city and nation, in mercy to the people, to see if they will yet seek him.</title>
+                  <author>Redford, Elizabeth.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695 or 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: The five and twentieth day of the tenth month, in the year, 1695. Elizabeth Redford.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Judgment of God --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171495:1" rendition="simple:additions"/>
+            <pb facs="tcp:171495:2" rendition="simple:additions"/>
+            <head>A WARNING from the Lord to the City and Nation, in Mercy to the People, to ſee if they will yet ſeek him.</head>
+            <p>WAtch and Repent, Repent and turn to the Lord with Fear and Trem<g ref="char:EOLhyphen"/>bling, ceaſe from all Evil, for the Lord is greatly at work amongſt the Nations, and will yet bring the loftineſs of Man low, and all Nations to bow and tremble before him, for diſtreſs of Nations is come, and yet coming as ſure as the Lord hath both gently and terribly ſhook the Earth, and hath appeared yet and again for the Honour of his great Name, by his Judgments that are in the Earth; if the Inhabitants thereof would yet bow, in Mercy the Lord hath, I ſay, gently ſhook the Earth in our parts, as a Warning and Call to Repentance, and if there be not a repenting, the Spirit of the Lord will not always ſtrive with Man, he will yet terribly ſhake the Earth, as he hath done in Nations abroad; the Vials of his Wrath is almoſt full, and the Angel of his Preſence ſtands rea<g ref="char:EOLhyphen"/>dy to pour them forth, therefore bow in Mercy, and come to a ſearch, for the Lord will yet, and again try the Standings and Foundations of Men, and they that truſt in the Lord, they ſhall ſee his great Salvation, but they that joyn with <hi>Babylon</hi> which is Confuſion, thus ſaith the Lord, they muſt both fall together, and they ſhall be made a Scourge one to another, for the Lord is come, and yet coming to make War with the Beaſt and falſe Prophet, that would not that Chriſt ſhould Reign in his peaceable Kingdom; and the dead<g ref="char:EOLhyphen"/>ly wound in the Head of the Beaſt ſhall not be healed in ſome, and the Lord hath warned and is warning all Nations, Kindreds, Tongues and People, that are joyned in a Warlike Spirit, by his Judgments from his own Almighty Power and Arm, as he did when he gently ſhook the Earth, that all might come to ſee his Judg<g ref="char:EOLhyphen"/>ments in Mercy, and not partake of the mark of the Beaſt, which is Confuſion, Blood-ſhed, Sin and Wick<g ref="char:EOLhyphen"/>edneſs, which is the cauſe of Calamity upon Calamity: and how the Lord hath pleaded with this City, is yet in remembrance, the great Plague, when the cry was <hi>bring forth your Dead bring forth your Dead.</hi> And after that, our great City in Flames very dreadful to behold, and the Sword alſo which is not yet departed; and, it is much to be feared, will conclude with greater Sorrow than is yet ſeen, if there be not a ſpeedy Care and Repen<g ref="char:EOLhyphen"/>tance. Go forth as <hi>Niniveh</hi> did, not ſuch a Faſt to ſmite with the Fiſt of wickedneſs, to the deſtruction of their fellow Creatures, but that they may be one in Love, for God is Love, and if not found in this, then the Lord is yet at work amongſt the Rocks, and will lay deſolate great and high Mountains, and as he hath done great and fenced Cities; and he is alſo at work at work amongſt the Hills, and there will be no Hill too high for him, and he will yet cleave and rent the Rocks in ſunder, and univerſally the vail of the Temple ſhall come to be rent, and Chriſt's peaceable Kingdom ſhall be ſet up, and all ſhall come to ſee him whom they have pierced, and they that ſtand upon great and high Mountains and Rocks will be caſt down: and the little Stone which <hi>Daniel</hi>'s Saw cut out of the Mountain without Hands, which ſhould become a great Mountain, and fill the whole Earth; this little Stone will yet fall upon many till they are ground to Powder; and great will be yet the deſolation that will be in the Earth, therefore, Oh Remember! The Angel of God's preſence hath fled through the midſt of Heaven, and gently ſhook the Earth, and we have felt it, and now the cry is, fear God, give glory to his Name, for the hour of his Judgment is come, and yet coming; fear him that made the Heavens and the whole Earth, the Sea and Fountains of Water, fear him, give glory to him, worſhip God in Spirit, watch and repent, for the Lords dreadful Judgments is at hand, and as we have felt his gentle ſtroke and war<g ref="char:EOLhyphen"/>ning, if there be not a ſpeedy repenting, we ſhall feel as other Nations hath done his terrible ſtroke, for the Lord will yet viſit again and again, till the diſplea<g ref="char:EOLhyphen"/>ſure of the Almighty is ſeen by the Sinners in <hi>Sion,</hi> and they come to obey our Lord Jeſus Chriſt, whoſe Command is, <hi>love one another,</hi> that the Covenant of his precious Blood to them may not be ſhed in vain; for our Lord came not to deſtroy Mens Lives, but to ſave them that obey and are willing to bow to him, in Mercy to themſelves, and that his other Sheep may be gathered into the one fold in peace, to worſhip God in Spirit and in Truth; that his <hi>Iſrael</hi> may be comforted; to gather as many as obey the Truth, and ſo brought forth to ſhine as Lights to the whole World: But methinks I hear ſome ſay, who do you call <hi>Iſrael?</hi> To that I anſwer with my Souls ſatisfaction, all they that fear God and work Righteouſneſs ſhall be excepted, and are willing to cleanſe their Hands from ſhedding of Blood, and keep themſelves unſpotted from the World, for the Blood that is ſhed in the Earth is diſpleaſing the Lord, and a great account there is to give, for the creation of God in whom he hath breathed the Breath of Life, and Man thereby became a living Soul, and the Seed Chriſt is ſown in them, and that Law written in their Hearts, that will be read againſt thoſe that are inſtrumental and leading ſuch poor Souls by thou<g ref="char:EOLhyphen"/>ſands to deſtruction, and to deſtroy their Fellow Creatures, ſheathing their ſwords in one anothers Bowels, till the ſtink of their Camps comes up into their No<g ref="char:EOLhyphen"/>ſtrils, and for all this, there is no compaſſion as Man to Man, therefore the Lord by his Judgments, ſince the name Chriſtian is doing one to another as the name <hi>Turk</hi> doth; therefore I ſay, the Lord by his Judg<g ref="char:EOLhyphen"/>ments is getting himſelf a Name amongſt the Hea<g ref="char:EOLhyphen"/>then, and ſuch as know not God, ſhall be brought to know him that Rules by his inviſible Arm and Strength, and thoſe ſhall enter the Kingdom before many that have a name to live and are dead, and this word further is to all profeſſions, under what name ſoever it may be; that is, whereas Men are ma<g ref="char:EOLhyphen"/>king a deſtinction between Silver and Silver, and Coin and Coin, and in the end, both by their appoint<g ref="char:EOLhyphen"/>ment accounted Reprobate, ſo that the beſt of their old Coin will be good for no more then as it is found in ſubſtance, ſo no more will the higheſt out-ſide pro<g ref="char:EOLhyphen"/>feſſion when it comes to be tryed, for there is nothing can make a Man live to God, and be ſerviceable to Man, but that which ſtands in God's Power, which all the dwellers of the Earth ſhall come to be tryed by, and they that are found too light,<note place="margin">
+                  <add>Jer 6.32</add>
+               </note> to be accoun<g ref="char:EOLhyphen"/>ted as the Prophet ſaw in his day Reprobate Silver ſhall Men call them, therefore haſten, haſten; for your lives Backſliders and Hippocrates, although under ne<g ref="char:EOLhyphen"/>ver ſo large a profeſſion and appearance to Men,
+<pb facs="tcp:171495:3"/>that will not do nor go for Currant, but will be found Reprobate, as is the falſe Coin and diminiſhed Silver, and that which hath been laid up for poſterity is not now good, but as it is now found in ſubſtance and fineneſs, when come to a Tryal, will fall ſhort of that Riches it was laid up for, and too many are truſt<g ref="char:EOLhyphen"/>ing in uncertain Riches, but the Lord hath many ways to work, and they that are truſting in ſuch Riches the Lord can turn and overturn their Treaſures, till he comes to reign in them whoſe right it is, and they come to be faithful, and alſo come to ſee him whom, they have and are piercing: Therefore this is the warning that every one come to a ſearch in themſelves, that the cauſe may be taken away, and the effect ceaſe, that Calamity upon Calamity may not come, but that all may come to buy Milk and Honey without Money and without price, and then come to the Supper of the Lamb, and to drink of the new Wine of the King<g ref="char:EOLhyphen"/>dom, and to taſte of that Heavenly Banket that is prepared for all thoſe that is found worthy to enter the Kingdom in Peace, being made partakers of that pure Faith, that works by Love, for many Warnings hath the Lord ſent in Mercy to this City and Nation, for his great Care, Love and Compaſſion is to them, and the Lord will be clear of you and his Servants will be clear alſo in that they deliver their Meſſage faith<g ref="char:EOLhyphen"/>fully, and this Remember, that many were invited to the Marriage Supper, but becauſe of their other Buſineſs, being preferred before that of God, ſuch were not found worthy, and the King he ſent his Armies, and deſtroyed thoſe Murtherers, and for their unfaithfulneſs in not anſwering their call, burnt their City, becauſe the Wedding was ready, but they that were bidden were not worthy to enter the Kingdom in peace, (there<g ref="char:EOLhyphen"/>fore Backſliders under what Name ſoever have a care,) and the King ſent his Servants into the High-ways, to gather together as many as they found, and the Wed<g ref="char:EOLhyphen"/>ding was furniſhed with Gueſt, but he that had not on the Wedding Garment (which is ſomething in his Heart to offer to the Lord of the Supper) he was Speechleſs, and bound Hand and Foot, and caſt into utter Darkneſs, and this is lamentable, many are cal<g ref="char:EOLhyphen"/>led but through Diſobedience, which is their loſs, few is choſen, that when the Midnight cry comes, ſuch as have not Oil in their Lamps, the Door will be ſhut againſt them, and they not be able to enter. I ſay for Diſobedience, and becauſe Man hath found out many inventions, the Lord deſtroyed the old World; and the great cauſe of Mens Miſery in all Generations is, they are not living up to what they do believe, as they ought, not truſting in the ſufficiency of that Arm, which only can bring Salvation, and preſerve both within and without; therefore the Lord hath ſhook the Hea<g ref="char:EOLhyphen"/>vens, and will yet ſhake the Earth alſo, and I ſay, will yet try the Standings and Foundations of Men, therefore let every Mortal living, dread and fear be<g ref="char:EOLhyphen"/>fore the Great <hi>Jehovah,</hi> the Living Almighty God, that it may be well with you, is the real breathing of my Soul; for his other Sheep, that they may be gathered into Chriſt's peaceable Own fold, for he is the peaceable Shepherd. So recommending you to him. I reſt,</p>
+            <closer>
+               <signed>Elizabeth Redford.</signed>
+               <dateline>
+                  <date>The Five and Twentieth day of the Tenth Month, in the Year, 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
